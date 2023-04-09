@@ -1,0 +1,5 @@
+com/sdd/home/page/SDDPage.class
+com/sdd/home/commonMethods/BasePage.class
+com/sdd/home/page/ConfigFileReader.class
+com/sdd/home/utility/StatefulSingleton.class
+com/sdd/home/page/SDDConstants.class
